@@ -170,6 +170,7 @@
 * [Learn SASS In Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) - Elzero Web School
 * [Sass&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6bF7qObm2a1mLN_WHAWQo) - Elzero Web School
 * [Sass - Create a website&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8) - Elzero Web School
+* [html tutorial for beginners&rlm;](https://www.youtube.com/playlist?list=PLknwEmKsW8OtLRQPTLms79499meY2D6ij) - Abdelrahman Gamal
 
 
 ### Java
